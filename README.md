@@ -1,2 +1,19 @@
 # no-code-resources
-A resource for no-code technology. Includes no-code servers, frontend, backend, games, plugins, documentation and more.
+A resource for no-code technology. Includes no-code servers, frontend, backend, game engines, payments, education, etc.
+
+## Frontend Web Applications
+
+## Backend Servers
+### Xano - https://www.xano.com
+The Xano platform gives you a scalable server, a flexible database, and a NO CODE API builder. It is built on Postgres.
+
+## Game Engines
+### Construct 3 - https://www.construct.net/en
+Construct is a game engine designed for 2D games on the web and mobile. It offers game development tools targeted for javascript and HTML5.
+
+## Payments
+### Zalance - https://zalance.net/
+Zalance provides an easy way to add payments, subscriptions, and stores to your game. It supports cross-platform devices, including mobile, web, PC, and console.
+
+## Education
+
